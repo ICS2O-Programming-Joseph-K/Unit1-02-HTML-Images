@@ -1,1 +1,1 @@
-# Unit1-02-HTML-Images
+[![GitHub's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
